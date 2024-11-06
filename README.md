@@ -93,4 +93,4 @@ Run `npx drizzle-kit studio` to start your drizzle studio and you'll get somethi
 
 How the complete application looks like:
 
-https://www.loom.com/share/fcfbe8679f484b20930e7bfb1e285adc?sid=c811192f-c54d-401f-9a1e-7f890b21f6e0
+https://www.loom.com/share/fcfbe8679f484b20930e7bfb1e285adc?sid=44b26cc8-6a1a-472c-83f3-124b0b8c40e0
